@@ -31,6 +31,9 @@ Navigate to parent folder and run following command:
 adk web
 ```
 This will start a web server and you can access the agent via the browser at `http://localhost:8000`.
+You should be able to see a chat bot agent running in your browser like this:
+
+![start](docs/start.png)
 
 ## Example
 **Input the caption text**: Enter the caption text in the input field. like:
@@ -54,3 +57,8 @@ it will generate the hashtags based on the caption text and image description. l
 #TravelPhotography
 #UrbanExploration
 ```
+
+A visual example of the output is shown below:
+
+![example](docs/example.png)
+
